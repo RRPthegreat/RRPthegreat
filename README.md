@@ -17,40 +17,43 @@ Passionate about building scalable backend applications, REST APIs, and solving 
 🌱 Currently Learning
 - System Design
 - Cloud & AWS
-- Scalable Backend Architecture
-- Microservices
+- Advanced Backend Development
+- Database Optimization
 
 🎯 Career Goal
-To build high-performance backend systems and contribute to impactful software products.
+
+To build reliable backend systems and grow as a Software Engineer.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- TypeScript
-- SQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ### Backend Development
-- Django
-- Django REST Framework
-- Node.js
-- Express.js
-- REST APIs
+
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-FF1709?logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 
 ### Databases
-- MySQL
-- MongoDB
-- SQLite
 
-### Tools & Technologies
-- Git
-- GitHub
-- Postman
-- VS Code
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -59,15 +62,15 @@ To build high-performance backend systems and contribute to impactful software p
 ### 🔹 SkillVerse AI
 AI-powered platform for skill learning, roadmap generation, and career development.
 
-**Tech Stack:** Django, DRF, JWT Authentication
+**Tech Stack:** Django, Django REST Framework, JWT Authentication
 
 ### 🔹 PC Store
-E-commerce application with authentication, product management, and order workflows.
+E-commerce application with authentication, product management, and ordering workflows.
 
 **Tech Stack:** Django, MySQL
 
-### 🔹 Backend API Projects
-Production-style REST APIs with authentication, authorization, and database integration.
+### 🔹 PPM Backend
+Backend APIs with authentication, authorization, and database integration.
 
 **Tech Stack:** Node.js, Express.js, TypeScript, MongoDB
 
@@ -78,7 +81,9 @@ Collection of coding solutions and algorithm implementations in Python.
 - Arrays
 - Strings
 - Linked Lists
-
+- Trees
+- Graphs
+- Dynamic Programming
 
 ---
 
@@ -88,23 +93,27 @@ Collection of coding solutions and algorithm implementations in Python.
 - TypeScript
 - API Design
 - System Design
-- Cloud & AWS
-- Database Optimization
+- Cloud Computing
+- Database Design
+
+---
+
+## 📍 Location
+
+Mumbai, India
 
 ---
 
 ## 📫 Connect With Me
 
-📍 Mumbai, India
+💼 LinkedIn: YOUR_LINKEDIN_LINK
 
-💼 LinkedIn: https://www.linkedin.com/in/rohit-prajapati-27725a293/
-
-📧 Email: rohitprajapati4242@gmail.com
+📧 Email: YOUR_EMAIL
 
 ---
 
-⭐ Open to Software Developer, Backend Developer, Python Developer, and Node.js Developer opportunities.
+![](https://komarev.com/ghpvc/?username=RRPthegreat&label=Profile+Views&color=blue)
 
-## 📊 GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RRPthegreat)
+⭐ Open to Backend Developer, Python Developer, Node.js Developer, and Software Engineer opportunities.
