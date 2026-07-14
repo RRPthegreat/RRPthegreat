@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./image.png" alt="Rohit Prajapati Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rohit Prajapati</h1>
 
 <h3 align="center">Backend Developer | Python | Node.js | TypeScript</h3>
