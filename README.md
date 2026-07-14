@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="images.jpg" width="700">
+  <img src="images.jpg" width="250">
 </p>
-
 <h1 align="center">Hi 👋, I'm Rohit Prajapati</h1>
 
 <h3 align="center">Backend Developer | Python | Node.js | TypeScript</h3>
