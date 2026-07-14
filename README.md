@@ -1,9 +1,21 @@
-<p align="center">
-  <img src="images.jpg" width="250">
-</p>
-<h1 align="center">Hi 👋, I'm Rohit Prajapati</h1>
+<table>
+<tr>
+<td width="35%">
 
-<h3 align="center">Backend Developer | Python | Node.js | TypeScript</h3>
+<img src="images.jpg" width="250">
+
+</td>
+<td>
+
+<h1>Hi 👋, I'm Rohit Prajapati</h1>
+
+<h3>Backend Developer | Python | Node.js | TypeScript</h3>
+
+Passionate about building scalable backend applications and REST APIs.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 Passionate about building scalable backend applications, REST APIs, and solving real-world problems through software.
