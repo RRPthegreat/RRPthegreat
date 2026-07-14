@@ -81,9 +81,7 @@ Collection of coding solutions and algorithm implementations in Python.
 - Arrays
 - Strings
 - Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
+
 
 ---
 
@@ -106,9 +104,9 @@ Mumbai, India
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: YOUR_LINKEDIN_LINK
+💼 LinkedIn: https://www.linkedin.com/in/rohit-prajapati-27725a293/
 
-📧 Email: YOUR_EMAIL
+📧 Email: rohitprajapati4242@gmail.com
 
 ---
 
