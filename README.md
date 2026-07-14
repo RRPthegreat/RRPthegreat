@@ -104,3 +104,7 @@ Collection of coding solutions and algorithm implementations in Python.
 ---
 
 ⭐ Open to Software Developer, Backend Developer, Python Developer, and Node.js Developer opportunities.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RRPthegreat&show_icons=true&theme=github_dark)
