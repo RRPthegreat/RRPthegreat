@@ -107,4 +107,4 @@ Collection of coding solutions and algorithm implementations in Python.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RRPthegreat&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RRPthegreat)
