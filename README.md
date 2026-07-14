@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images.jpg" alt="Rohit Prajapati Banner" width="100%">
+  <img src="images.jpg" width="700">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohit Prajapati</h1>
